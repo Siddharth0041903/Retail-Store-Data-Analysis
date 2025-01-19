@@ -60,7 +60,7 @@ Now that they have hired a new data team and are strategizing their budget alloc
 - Furniture has proved to be the least profitable in Central and East regions.
 - Office supplies have performed worst in the Central region.
   
-![Screenshot 2025-01-19 152715](https://github.com/user-attachments/assets/25b5665a-6060-41b2-933d-b28695b303a7)
+![Screenshot 2025-01-19 195048](https://github.com/user-attachments/assets/94963d1c-b0ec-43ed-a893-90d683be639b)
   
 ### Commodities Analysis (Segment) ###
 - Tables, Supplies and cases are some of the worst performing Commodities across the 3 categories.
@@ -71,4 +71,18 @@ Now that they have hired a new data team and are strategizing their budget alloc
 
 ## Recommendations ##
 
-###
+### Utilizing State potential ###
+- Reduce supply of Consumer goods in Idaho and Nevada; Corporate goods in Utah; Home Office goods in California.
+- Increase supply of Consumer goods in Delaware and Minessota; Corporate goods in Indiana and Georgia, Home Office goods in Delaware and Arkansas.
+- Reduce Office Supplies in Iowa, South Carolina and New Mexico; Furniture in California and Kansas.
+- Increase Office Supplies in Minnesota, Furniture in Vermont, Technology in Rhode Island, Delaware and Indiana. 
+
+### Ship-Mode ###
+- Reduce Second and Standard Class Shipments in the Central region; Same day Shipments in the South Region; Second Class in East; Standard Class in West.
+- Reduce Same Day Shipments in Corporate; Standard Class in Consumer; Second Class in Consumer.
+- Focus more on Home office supplies across all Ship-modes.
+
+  ## Category ###
+  - Reduce Furniture in Central and Eastern regions; Reduce Office Supplies in Central region.
+  - Increase Technology Supply in Central, Eastern and Southern regions.
+  
