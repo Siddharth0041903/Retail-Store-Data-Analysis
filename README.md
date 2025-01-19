@@ -2,7 +2,9 @@
 ### Project Goal ###
 The goal of this project is to investigate the annual sales of a national retail store in the United States of America in order to surface recommendations on budget, discount and sales allocation.
 ### Project Background ###
-**The retail store operates in 531 cities in the 50 states of the US**. It delivers 17 unique products from 3 categories -- furniture, office supplies and technology all over the country. It has 3 main segments -- Consumer, Corporate and Home Office -- with 4 different shipping modes. The Store made a total profit of $286,397.
+**The retail store operates in 531 cities in the 50 states of the US**. It delivers 17 unique products from 3 categories -- furniture, office supplies and technology all over the country. It has 3 main segments -- Consumer, Corporate and Home Office -- with 4 different shipping modes. 
+
+**The Store made a total sale of $2,297,200 with a profit of $286,397.**
 
 Now that they have hired a new data team and are strategizing their budget allocation for the year, the store would like to build more understanding of the effectiveness of their discount, sales and shipment policy.The budget is allocated to drive two primary objectives: 
 1) To increase profits in Key sub-categories across different regions and segments.
@@ -69,6 +71,9 @@ Now that they have hired a new data team and are strategizing their budget alloc
 
 ![Screenshot 2025-01-19 174524](https://github.com/user-attachments/assets/76721c59-0b7f-492d-a24c-dec1e2a5c306)
 
+![Screenshot 2025-01-19 212821](https://github.com/user-attachments/assets/029a3462-3345-4164-92ad-a1859f7fbf3e)
+
+
 ## Recommendations ##
 
 ### Utilizing State potential ###
@@ -88,5 +93,7 @@ Now that they have hired a new data team and are strategizing their budget alloc
 
 ### Commodities ###
 - Reduce Tables in all 3 categories; Supplies and Bookcases in Consumer; Bookcases, Binders, Fasteners and Machines in Corporate and Fasterners in Home Office.
-- Increase Copiers, accessories in 
+- Increase Copiers, accessories across all 3 segments; increase appliance and storage in Home Office.
+
+## Assumptions & Caveats ##
 
