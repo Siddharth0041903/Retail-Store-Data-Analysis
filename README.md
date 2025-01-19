@@ -1,6 +1,8 @@
 # Retail Store Data Insights - Project Overview
-## The goal of this project is to investigate the annual sales of a national retail store in the United States of America in order to surface recommendations on budget, discount and sales allocation
-**The retail store operates in 531 cities in the 50 states of the US**. It delivers 17 unique products from 3 categories -- furniture, office supplies and technology all over the country. It has 3 main segments -- Consumer, Corporate and Home Office -- with 4 different shipping modes.
+### Project Goal ###
+The goal of this project is to investigate the annual sales of a national retail store in the United States of America in order to surface recommendations on budget, discount and sales allocation.
+### Project Background ###
+**The retail store operates in 531 cities in the 50 states of the US**. It delivers 17 unique products from 3 categories -- furniture, office supplies and technology all over the country. It has 3 main segments -- Consumer, Corporate and Home Office -- with 4 different shipping modes. The Store made a total profit of $286,397.
 
 Now that they have hired a new data team and are strategizing their budget allocation for the year, the store would like to build more understanding of the effectiveness of their discount, sales and shipment policy.The budget is allocated to drive two primary objectives: 
 1) To increase profits in Key sub-categories across different regions and segments.
@@ -20,4 +22,53 @@ Now that they have hired a new data team and are strategizing their budget alloc
  - West side has the best Profit per unit Discount rate ($309) & Central has the worst ($71). Both accounting to their respective discount levels. West with 10.93% and Central with 24.04%.
 - Second Class has proved to be the most profitable ($212); accounting to it's lowest discount rate (13.9%).
 
-  **Profit per unit Sales:**
+**Profit per unit Sales:**
+- Across all the states, Columbia had the best Profit per unit Sale rate (0.37) & Ohio has the worst Profit per unit Sale rate (-0.21).
+- West side has the best Profit per unit Sale rate (0.15) & Central has the worst (0.08).
+- First Class has proved to be the most profitable (0.14).
+
+**Profit per Quantity:**
+- Across all the states, Vermont had the best Profit per unit Quantity rate ($44.9) & Ohio has the worst Profit per unit Quantity rate (-9.64).
+- West side has the best Profit per Quantity rate (8.83) & Central has the worst (4.52).
+- First Class has proved to be the most profitable (8.60).
+
+## Insights Deep-Dive ##
+
+### States with Profit Potential (Sales) ###
+- California, Idaho, Nevada, South Carolina, Utah are overall top 5 worst performing states across all three segments.
+- Delaware, Minnesota, Arkansas, Indiana, Georgia are overall the best performing across all the three segments.
+- Suggesting a need for change in quantity supplied.
+    
+![Screenshot 2025-01-19 130804](https://github.com/user-attachments/assets/c1582c75-8300-4d76-a7fe-660fc1689a87)
+
+### States with Profit Potential (Quantity) ###
+- New Mexico, South Dakota, California, South Carolina, Iowa are overall top 5 worst performing states across all three categories.
+- Vermont, Rhode Island, Montana, Minnesota, Indiana are overall the best performing across all the three categories
+- Suggesting a need for change in quantity supplied.
+
+![Screenshot 2025-01-19 135034](https://github.com/user-attachments/assets/13f2856a-23e3-4fc7-a696-6d7fe32fff30)
+
+### Regional Performance (Ship-Mode) ###
+- Same day delivery in South has the worst Profit per Discount (-0.85).
+- West side has proven to be profitable in all 4 ship-modes.
+- While central has performed the worst overall.
+
+![Screenshot 2025-01-19 150358](https://github.com/user-attachments/assets/2007cb51-afb8-400e-a220-459fb8764c48)
+
+### Regional Analysis (Category) ###
+- Technology has proved to be highly profitable in all the regions and Segments.
+- Furniture has proved to be the least profitable in Central and East regions.
+- Office supplies have performed worst in the Central region.
+  
+![Screenshot 2025-01-19 152715](https://github.com/user-attachments/assets/25b5665a-6060-41b2-933d-b28695b303a7)
+  
+### Commodities Analysis (Segment) ###
+- Tables, Supplies and cases are some of the worst performing Commodities across the 3 categories.
+- Copiers, accessories and envelopes are some the best performing commodities.
+- Suggesting a change in the quantity supplied to the segments.
+
+![Screenshot 2025-01-19 174524](https://github.com/user-attachments/assets/76721c59-0b7f-492d-a24c-dec1e2a5c306)
+
+## Recommendations ##
+
+###
