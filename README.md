@@ -81,9 +81,12 @@ Now that they have hired a new data team and are strategizing their budget alloc
 - Reduce Second and Standard Class Shipments in the Central region; Same day Shipments in the South Region; Second Class in East; Standard Class in West.
 - Reduce Same Day Shipments in Corporate; Standard Class in Consumer; Second Class in Consumer.
 - Focus more on Home office supplies across all Ship-modes.
-
+ 
 ### Category ###
-  - Reduce Furniture in Central (Consumer & Home Office) and Eastern (Corporate) regions; Reduce Office Supplies in Central region.
-  - Increase Technology Supply in Central, Eastern and Southern regions.
-    
-  
+- Reduce Furniture in Central (Consumer & Home Office) and Eastern (Corporate) regions; Reduce Office Supplies in Central region.
+- Increase Technology Supply in Central, Eastern and Southern regions.
+
+### Commodities ###
+- Reduce Tables in all 3 categories; Supplies and Bookcases in Consumer; Bookcases, Binders, Fasteners and Machines in Corporate and Fasterners in Home Office.
+- Increase Copiers, accessories in 
+
