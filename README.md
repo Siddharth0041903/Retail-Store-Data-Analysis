@@ -93,3 +93,9 @@ Now that they have hired a new data team and are strategizing their budget alloc
 ### Commodities ###
 - Reduce Tables in all 3 categories; Supplies and Bookcases in Consumer; Bookcases, Binders, Fasteners and Machines in Corporate and Fasterners in Home Office.
 - Increase Copiers, accessories across all 3 segments; increase appliance and storage in Home Office.
+
+## Dashboard ##
+
+![Screenshot 2025-01-21 003135](https://github.com/user-attachments/assets/fff7132c-2c99-45b6-98a3-a7a26d396536)
+
+
