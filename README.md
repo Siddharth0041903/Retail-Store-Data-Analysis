@@ -41,38 +41,35 @@ Now that they have hired a new data team and are strategizing their budget alloc
 - Delaware, Minnesota, Arkansas, Indiana, Georgia are overall the best performing across all the three segments.
 - Suggesting a need for change in quantity supplied.
     
-![Screenshot 2025-01-19 130804](https://github.com/user-attachments/assets/c1582c75-8300-4d76-a7fe-660fc1689a87)
+![Screenshot 2025-01-20 224014](https://github.com/user-attachments/assets/b57c1e2d-c3c9-4728-9f7a-07bdae063c4f)
 
 ### States with Profit Potential (Quantity) ###
 - New Mexico, South Dakota, California, South Carolina, Iowa are overall top 5 worst performing states across all three categories.
 - Vermont, Rhode Island, Montana, Minnesota, Indiana are overall the best performing across all the three categories
 - Suggesting a need for change in quantity supplied.
 
-![Screenshot 2025-01-19 135034](https://github.com/user-attachments/assets/13f2856a-23e3-4fc7-a696-6d7fe32fff30)
+![Screenshot 2025-01-20 224102](https://github.com/user-attachments/assets/095fbbc2-65a4-4206-91ea-8f6801ed7146)
 
 ### Regional Performance (Ship-Mode) ###
 - Same day delivery in South has the worst Profit per Discount (-0.85).
 - West side has proven to be profitable in all 4 ship-modes.
 - While central has performed the worst overall.
 
-![Screenshot 2025-01-19 150358](https://github.com/user-attachments/assets/2007cb51-afb8-400e-a220-459fb8764c48)
+![Screenshot 2025-01-20 224136](https://github.com/user-attachments/assets/134b9472-d24b-4e53-965f-aa8265ef2f62)
 
 ### Regional Analysis (Category) ###
 - Technology has proved to be highly profitable in all the regions and Segments.
 - Furniture has proved to be the least profitable in Central and East regions.
 - Office supplies have performed worst in the Central region.
   
-![Screenshot 2025-01-19 195048](https://github.com/user-attachments/assets/94963d1c-b0ec-43ed-a893-90d683be639b)
+![Screenshot 2025-01-20 224250](https://github.com/user-attachments/assets/5102de1e-491d-40c2-b5a0-baf309bb5caf)
   
 ### Commodities Analysis (Segment) ###
 - Tables, Supplies and cases are some of the worst performing Commodities across the 3 categories.
 - Copiers, accessories and envelopes are some the best performing commodities.
 - Suggesting a change in the quantity supplied to the segments.
-
-![Screenshot 2025-01-19 174524](https://github.com/user-attachments/assets/76721c59-0b7f-492d-a24c-dec1e2a5c306)
-
-![Screenshot 2025-01-19 212821](https://github.com/user-attachments/assets/029a3462-3345-4164-92ad-a1859f7fbf3e)
-
+  
+![Screenshot 2025-01-20 224427](https://github.com/user-attachments/assets/298355fc-4b85-42d1-8a67-b59e619a7196)
 
 ## Recommendations ##
 
@@ -86,7 +83,9 @@ Now that they have hired a new data team and are strategizing their budget alloc
 - Reduce Second and Standard Class Shipments in the Central region; Same day Shipments in the South Region; Second Class in East; Standard Class in West.
 - Reduce Same Day Shipments in Corporate; Standard Class in Consumer; Second Class in Consumer.
 - Focus more on Home office supplies across all Ship-modes.
- 
+
+![image](https://github.com/user-attachments/assets/e3f61db8-33be-4906-804b-aa55e176baf8)
+
 ### Category ###
 - Reduce Furniture in Central (Consumer & Home Office) and Eastern (Corporate) regions; Reduce Office Supplies in Central region.
 - Increase Technology Supply in Central, Eastern and Southern regions.
@@ -94,6 +93,3 @@ Now that they have hired a new data team and are strategizing their budget alloc
 ### Commodities ###
 - Reduce Tables in all 3 categories; Supplies and Bookcases in Consumer; Bookcases, Binders, Fasteners and Machines in Corporate and Fasterners in Home Office.
 - Increase Copiers, accessories across all 3 segments; increase appliance and storage in Home Office.
-
-## Assumptions & Caveats ##
-
