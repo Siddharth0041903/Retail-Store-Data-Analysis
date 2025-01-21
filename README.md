@@ -14,6 +14,8 @@ Now that they have hired a new data team and are strategizing their budget alloc
 - Technology proved to be the most profitable category with a profit of $145,454, Furniture proved to be the worst category with a profit of $18,451.
 - Standard Class proved to be the most profitable across all the ship-modes with a profit of $164,088, Same Day ship-mode performed the worst with a profit of $15,891.
 
+The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
+
 ## Insights Summary ##
 **In order to evaluate the performance of the Store, we focused on the following key metrics:**
 
