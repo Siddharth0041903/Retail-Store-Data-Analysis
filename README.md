@@ -4,11 +4,15 @@ The goal of this project is to investigate the annual sales of a national retail
 ### Project Background ###
 **The retail store operates in 531 cities in the 50 states of the US**. It delivers 17 unique products from 3 categories -- furniture, office supplies and technology all over the country. It has 3 main segments -- Consumer, Corporate and Home Office -- with 4 different shipping modes. 
 
-**The Store made a total sale of $2,297,200 with a profit of $286,397.**
-
 Now that they have hired a new data team and are strategizing their budget allocation for the year, the store would like to build more understanding of the effectiveness of their discount, sales and shipment policy.The budget is allocated to drive two primary objectives: 
 1) To increase profits in Key sub-categories across different regions and segments.
 2) To increase sales and quantity supplied in the highly profitable regions and segments.
+
+## Executive Summary ##
+- The Store made a total sale of $2,297,200 with a profit of $286,397.
+- West side proved to be the most profitable region with a profit of $108,4180, Central performed the worst with a profit of $39,706.
+- Technology proved to be the most profitable category with a profit of $145,454, Furniture proved to be the worst category with a profit of $18,451.
+- Standard Class proved to be the most profitable across all the ship-modes with a profit of $164,088, Same Day ship-mode performed the worst with a profit of $15,891.
 
 ## Insights Summary ##
 **In order to evaluate the performance of the Store, we focused on the following key metrics:**
