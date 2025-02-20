@@ -101,7 +101,7 @@ The following sections will explore additional contributing factors and highligh
 - Increase Copiers, accessories across all 3 segments; increase appliance and storage in Home Office.
 
 ## Dashboard ##
+![Screenshot 2025-02-20 195454](https://github.com/user-attachments/assets/8c07724a-8011-49d1-b229-86623b77c790)
 
-![Screenshot 2025-01-21 003135](https://github.com/user-attachments/assets/fff7132c-2c99-45b6-98a3-a7a26d396536)
 
 
